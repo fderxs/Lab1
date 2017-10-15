@@ -1,5 +1,5 @@
 package graph_creat;
-
+//处理输入
 public class string_split{
 	public final static int MAXN = 1000;//test
 	public String str = "";
