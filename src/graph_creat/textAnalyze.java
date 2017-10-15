@@ -19,7 +19,7 @@ public class textAnalyze extends bridge{
 			
 			boolean is_space = true;
 			int type;
-			int total = 0;
+			int total = 0;//test
 			while ((type = inStream.read()) != -1){
 				if (++total >= MAXN) CORRECT = false;
 				char chr = (char) type;

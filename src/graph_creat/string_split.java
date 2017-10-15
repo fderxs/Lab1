@@ -9,7 +9,7 @@ public class string_split{
 	public int[][] w = new int[MAXN][MAXN];
 	public int word_num;
 	public int[][] A = new int[MAXN][MAXN]; 
-	public int[][] Path = new int[MAXN][MAXN];
+	public int[][] Path = new int[MAXN][MAXN];//test
 	
 	public string_split() {
 		// TODO Auto-generated constructor stub

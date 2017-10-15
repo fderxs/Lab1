@@ -19,7 +19,7 @@ public class bridge extends creat_png{
 			}
 			if(word2.equals(word_list[i])){
 				t2 = i;
-				secondword = i;
+				secondword = i;//test
 			}
 		}
 		if(t1 == -1 || t2 == -1){	
