@@ -6,7 +6,7 @@ import java.awt.Toolkit;
 
 import javax.swing.JFrame;
 import javax.swing.JMenuBar;
-
+//gui frame
 public class gui_frame{
 	static Toolkit kit = Toolkit.getDefaultToolkit();
 	static Dimension screensize = kit.getScreenSize();

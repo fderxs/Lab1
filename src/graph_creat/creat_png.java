@@ -6,7 +6,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 import gui.message_dialog;
-
+//创建图的算法
 public class creat_png extends string_split{
 	
 	public creat_png() {
