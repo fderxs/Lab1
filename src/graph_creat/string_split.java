@@ -1,7 +1,7 @@
 package graph_creat;
 
 public class string_split{
-	public final static int MAXN = 1000;
+	public final static int MAXN = 1000;//test
 	public String str = "";
 	public String initialText = "";
 	public String[] word_list = new String[MAXN];

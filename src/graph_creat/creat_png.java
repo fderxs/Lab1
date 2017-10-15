@@ -6,6 +6,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 import gui.message_dialog;
+//test
 
 public class creat_png extends string_split{
 	

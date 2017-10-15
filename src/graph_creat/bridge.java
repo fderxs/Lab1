@@ -2,6 +2,7 @@ package graph_creat;
 
 import java.util.Random;
 import java.util.Stack;  
+//test
 public class bridge extends creat_png{
 	public int firstword, secondword;
 	public boolean[] p = new boolean[MAXN];

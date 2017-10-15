@@ -5,7 +5,7 @@ import java.awt.EventQueue;
 import java.awt.Toolkit;
 
 import javax.swing.JFrame;
-import javax.swing.JMenuBar;
+import javax.swing.JMenuBar;//test
 
 public class gui_frame{
 	static Toolkit kit = Toolkit.getDefaultToolkit();
