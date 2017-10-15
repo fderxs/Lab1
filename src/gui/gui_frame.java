@@ -5,13 +5,10 @@ import java.awt.EventQueue;
 import java.awt.Toolkit;
 
 import javax.swing.JFrame;
-<<<<<<< HEAD
+
 import javax.swing.JMenuBar;//test
 
-=======
-import javax.swing.JMenuBar;
-//gui frame
->>>>>>> C4
+
 public class gui_frame{
 	static Toolkit kit = Toolkit.getDefaultToolkit();
 	static Dimension screensize = kit.getScreenSize();
